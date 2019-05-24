@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="student data" max_length="40" name="x_354852_student_a_student_data" type="collection">
+        <element choice="1" label="Branch" max_length="3" name="branch" type="string">
+            <choice>
+                <element inactive_on_update="false" label="ece" sequence="0" value="ece"/>
+                <element inactive_on_update="false" label="huna@gmail.com" sequence="0" value="huna@gmail.com"/>
+                <element inactive_on_update="false" label="rwae@gmail.com" sequence="0" value="rwae@gmail.com"/>
+                <element inactive_on_update="false" label="yuri@gmail.com" sequence="0" value="yuri@gmail.com"/>
+                <element inactive_on_update="false" label="cse" sequence="1" value="cse"/>
+                <element inactive_on_update="false" label="eee" sequence="2" value="eee"/>
+                <element inactive_on_update="false" label="mech" sequence="3" value="mech"/>
+            </choice>
+        </element>
+        <element label="date" max_length="40" name="date" type="glide_date"/>
+        <element choice="1" label="Name" max_length="40" name="name" read_only="true" type="string" use_dependent_field="true">
+            <choice>
+                <element inactive_on_update="false" label="a" sequence="0" value="a"/>
+                <element inactive_on_update="false" label="huna" sequence="0" value="huna"/>
+                <element inactive_on_update="false" label="hunae" sequence="0" value="hunae"/>
+                <element inactive_on_update="false" label="rae" sequence="0" value="rae"/>
+                <element inactive_on_update="false" label="raee" sequence="0" value="raee"/>
+                <element inactive_on_update="false" label="yuri" sequence="0" value="yuri"/>
+                <element inactive_on_update="false" label="yurie" sequence="0" value="yurie"/>
+                <element inactive_on_update="false" label="b" sequence="1" value="b"/>
+                <element inactive_on_update="false" label="c" sequence="2" value="c"/>
+            </choice>
+        </element>
+        <element default="0" label="no of hours" max_length="4000" name="no_of_hours" type="integer"/>
+        <element label="roll no" mandatory="true" max_length="40" name="roll_no" type="integer"/>
+        <element choice="1" label="Status" mandatory="true" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="no" sequence="1" value="no"/>
+            </choice>
+        </element>
+    </element>
+</database>

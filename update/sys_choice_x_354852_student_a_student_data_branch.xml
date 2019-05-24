@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="branch" table="x_354852_student_a_student_data" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>branch</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ece</label>
+            <language>en</language>
+            <name>x_354852_student_a_student_data</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-10 05:14:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7992514adb1d3300c953ab7dca96192b</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-10 05:19:16</sys_updated_on>
+            <value>ece</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>branch</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>huna@gmail.com</label>
+            <language>en</language>
+            <name>x_354852_student_a_student_data</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-20 09:13:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c82925d5db65b300c953ab7dca9619dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-20 09:13:11</sys_updated_on>
+            <value>huna@gmail.com</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>branch</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>rwae@gmail.com</label>
+            <language>en</language>
+            <name>x_354852_student_a_student_data</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-20 09:13:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4c2925d5db65b300c953ab7dca9619d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-20 09:13:11</sys_updated_on>
+            <value>rwae@gmail.com</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>branch</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>yuri@gmail.com</label>
+            <language>en</language>
+            <name>x_354852_student_a_student_data</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-20 09:13:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>442925d5db65b300c953ab7dca9619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-20 09:13:11</sys_updated_on>
+            <value>yuri@gmail.com</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>branch</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>cse</label>
+            <language>en</language>
+            <name>x_354852_student_a_student_data</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-10 05:14:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b992514adb1d3300c953ab7dca96192c</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-10 05:19:16</sys_updated_on>
+            <value>cse</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>branch</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>eee</label>
+            <language>en</language>
+            <name>x_354852_student_a_student_data</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-10 05:14:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3992514adb1d3300c953ab7dca96192d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-10 05:19:16</sys_updated_on>
+            <value>eee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>branch</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>mech</label>
+            <language>en</language>
+            <name>x_354852_student_a_student_data</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-10 05:14:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b592514adb1d3300c953ab7dca96192e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-10 05:19:16</sys_updated_on>
+            <value>mech</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>branch</element>
+            <name>x_354852_student_a_student_data</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-10 05:14:29</sys_created_on>
+            <sys_id>b192514adb1d3300c953ab7dca96192c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>branch</sys_name>
+            <sys_package display_value="student attendance" source="x_354852_student_a">e185898edbd93300c953ab7dca96196c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="student attendance">e185898edbd93300c953ab7dca96196c</sys_scope>
+            <sys_update_name>sys_choice_x_354852_student_a_student_data_branch</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-10 05:14:29</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

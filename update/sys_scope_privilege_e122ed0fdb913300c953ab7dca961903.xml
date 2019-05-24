@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="student attendance">e185898edbd93300c953ab7dca96196c</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-13 08:56:23</sys_created_on>
+        <sys_id>e122ed0fdb913300c953ab7dca961903</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GlideRecord.setValue</sys_name>
+        <sys_package display_value="student attendance" source="x_354852_student_a">e185898edbd93300c953ab7dca96196c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="student attendance">e185898edbd93300c953ab7dca96196c</sys_scope>
+        <sys_update_name>sys_scope_privilege_e122ed0fdb913300c953ab7dca961903</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-13 08:56:23</sys_updated_on>
+        <target_name>GlideRecord.setValue</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>scriptable</target_type>
+    </sys_scope_privilege>
+</record_update>

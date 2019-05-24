@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>branch</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>name</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+   //Type appropriate comment here, and begin script below
+var a=1;
+	if(g_form.getValue(roll_no)>0)
+		{
+			var name=g_form.getValue(roll_no)+rama;
+		}
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-10 07:09:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6809a186db5d3300c953ab7dca9619a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>name</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="student attendance" source="x_354852_student_a">e185898edbd93300c953ab7dca96196c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="student attendance">e185898edbd93300c953ab7dca96196c</sys_scope>
+        <sys_update_name>sys_script_client_6809a186db5d3300c953ab7dca9619a0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-10 07:09:20</sys_updated_on>
+        <table>x_354852_student_a_student_data</table>
+        <type>onLoad</type>
+        <ui_type>1</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="hasLabels=true" label="employee data" max_length="40" name="x_354852_student_a_emplyee_data" type="collection">
+        <element label="empid" max_length="40" name="empid" type="integer"/>
+        <element label="empname" max_length="40" name="empname" type="string"/>
+        <element label="empsal" max_length="40" name="empsal" type="string"/>
+        <element label="hra" max_length="40" name="hra" type="string"/>
+    </element>
+</database>
